@@ -37,7 +37,7 @@ brew install git
 4. git clone
 
 ```sh
-git clone https://jaaaaaemkim.github.com/.dotfiles
+git clone https://github.com/JAAAAAEMKIM/.dotfiles.git
 ```
 
 5. run install.sh
