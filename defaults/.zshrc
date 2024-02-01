@@ -109,7 +109,7 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 # Autocomplete
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-bindkey '^I' autosuggest-accept
+bindkey '\e^I' autosuggest-accept
 
 # tmux
 alias tm="tmux"
