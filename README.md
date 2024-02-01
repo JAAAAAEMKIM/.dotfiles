@@ -51,10 +51,17 @@ git clone https://github.com/JAAAAAEMKIM/.dotfiles.git
 ## To do next
 
 Clone nvim config repository
+
 Oh-my-zsh config
+
 Install nvm, node
+
 Install rust
+
 Install vscode
+
 Install chrome
+
 Install bun
+
 ...
