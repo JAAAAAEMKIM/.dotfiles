@@ -115,3 +115,6 @@ bindkey '\e^I' autosuggest-accept
 alias tm="tmux"
 alias tma="tmux a -t"
 alias tmnew="tmux new -s"
+
+# git
+alias gcm="gcmsg"
