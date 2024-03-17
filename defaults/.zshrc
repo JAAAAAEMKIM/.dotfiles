@@ -118,3 +118,5 @@ alias tmnew="tmux new -s"
 
 # git
 alias gcm="gcmsg"
+
+export OBS_DOCUMENTS_PATH="/Users/jaeminkim/Documents/Obsidian Vault/obsidian"
