@@ -11,7 +11,10 @@ brew install iterm2
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 # link to home dir
-ln -s ~/.dotfiles/defaults/.* ~/
+ln -s ~/.dotfiles/defaults/.gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/defaults/.tmux.conf ~/.tmux.conf
+
+echo 'source "$HOME/.dotfiles/defaults/.zshrc"' >>$HOME/.zshrc
 
 # Source
 source ~/.zshrc
