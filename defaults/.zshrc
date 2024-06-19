@@ -12,7 +12,7 @@ bindkey '\e^I' autosuggest-accept
 
 # tmux
 alias tm="tmux"
-alias tma="tmux a -t"
+alias tma="tmux a"
 alias tmnew="tmux new -s"
 
 # git
